@@ -1,0 +1,66 @@
+1
+00:00:1,233-->00:00:2,123
+Hey,This is ROb.
+
+2
+00:00:2,333-->00:00:4,233
+Yesterday he went for a ride.
+
+3
+00:00:6,233-->00:00:7,833
+Unfortunately Rob met with an accident .
+
+4
+00:00:8,233-->00:00:10,233
+He got escaped but not his car.
+
+5
+00:00:13,233-->00:00:17,233
+So,he planned to claim insurance for his car.
+
+6
+00:00:19,233-->00:00:22,233
+For that Rob went to police station to file FIR.
+
+7
+00:00:24,233-->00:00:25,633
+Next he went to carshowroom
+
+
+8
+00:00:26,233-->00:00:28,233
+ to get the estimation of the replacement to be done.
+ 
+
+9
+00:00:29,233-->00:00:31,233
+Finally he went to insurance office.
+
+10
+00:00:32,233-->00:00:34,103
+to submit the estimation copy and claim insurance.
+
+11
+00:00:35,233-->00:00:38,233
+Loss of his car and this legal formalities made Rob more frustrated.
+
+12
+00:00:41,233-->00:00:42,733
+To overcome this we introduce a project
+
+13
+00:00:44,233-->00:00:47,633
+This project is to claim the insurance more easier with your aadhar number.
+
+
+14
+00:00:51,233-->00:00:57,233
+So to help Rob ,we bringing all the three departments into a single window.
+
+7
+00:00:60,233-->00:00:63,233
+This makes rob claim his insurance staying at home.
+
+8
+00:00:64,233-->00:00:65,233
+but still he feels for his car :\
